@@ -16,6 +16,13 @@ Welcome to my corner of GitHub! I’m Hilton-J—a code enthusiast, tech explore
 
 ---
 
+## 🌱 I’m currently learning ...
+
+- Microservices with Node JS and React (Udemy)
+- CI/CD pipelines with GitHub Actions
+
+---
+
 ## 🛠️ Toolbox
 
 - **Languages:** JavaScript, TypeScript, C#, HTML, CSS
@@ -53,13 +60,6 @@ Welcome to my corner of GitHub! I’m Hilton-J—a code enthusiast, tech explore
 
 - **NC: Supply Chain Management (NQF5)**  
   Bizzco Training Skills Development
-
----
-
-## 🌱 Currently learning 
-
-- Microservices
-- CI/CD Pipelines using GitHub actions
 
 ---
 
