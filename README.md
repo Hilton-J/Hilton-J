@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Lwandile Hilton-Junior Majola!
 
-**Full Stack Developer | MERN Stack | .NET | SQL Server**  
-Johannesburg, South Africa  
-[LinkedIn](https://www.linkedin.com/in/lhmajola) | lhmajola@outlook.com
+**Full Stack Developer | MERN Stack | .NET | SQL Server** 
 
 ---
 
