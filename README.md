@@ -42,7 +42,6 @@ Welcome to my corner of GitHub! I’m Hilton-J—a code enthusiast, tech explore
 ## 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lhmajola)
-- [GitHub](https://github.com/Hilton-J)
 - Email: lhmajola@outlook.com
 
 ---
